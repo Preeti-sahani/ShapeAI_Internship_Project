@@ -1,8 +1,7 @@
 # ShapeAI_Internship_Project
 **Analyzing Popular Repositories on GitHub**
 
-![image](https://user-images.githubusercontent.com/84913669/133401418-66e6ec32-e342-49a4-bba5-e7b1841aef7d.png)
-
+![image](https://user-images.githubusercontent.com/84913669/133401657-8ea2cf8f-31fb-4f03-af9b-7f942df8c37c.png)
 
 # **Introduction**
 This project is focused on exploratory data analysis, aka "EDA". EDA is an essential part of the data science analysis pipeline.
