@@ -1,7 +1,7 @@
 # ShapeAI_Internship_Project
 **Analyzing Popular Repositories on GitHub**
 
-![image](https://user-images.githubusercontent.com/84913669/133401292-dc4cc278-38d2-4281-8611-8fc6d794f08a.png)
+![image](https://user-images.githubusercontent.com/84913669/133401418-66e6ec32-e342-49a4-bba5-e7b1841aef7d.png)
 
 
 # **Introduction**
