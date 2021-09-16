@@ -42,6 +42,7 @@ Dataset (Taken from kaggle).
       2.8 filling a null values using fillna()
  
  **3) Repository Distributions Analysis**
+ 
       3.1 Topic wise project distribution
       
       3.2 Repository Fork distribution
@@ -61,6 +62,7 @@ Dataset (Taken from kaggle).
       3.9 License distribution
    
  **4) Correlations**
+ 
       4.1 All numeric columns correlation
       
       4.2 Relationship between Star, Fork and Watch
@@ -68,6 +70,7 @@ Dataset (Taken from kaggle).
       4.3 Correlation between the contribution columns
   
  **5) Top 10 Repository Analysis Topicwise**
+ 
       5.1 Stars of top 10 repositories
       
       5.2 Fork 
