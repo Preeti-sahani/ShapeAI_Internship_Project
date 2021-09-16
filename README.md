@@ -25,15 +25,15 @@ Dataset (Taken from kaggle).
 
 2) Understaing Dataset
 
-2.1 Importing Data
+    2.1 Importing Data
   
-2.2 Shape of dataset
+    2.2 Shape of dataset
+   
+    2.3 Info()
   
-2.3 Info()
+    2.4 Dtype
   
-2.4 Dtype
-  
-2.5 Describe
+    2.5 Describe
   
 2.6 Converting number with comma numerical
   
