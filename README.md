@@ -27,19 +27,19 @@ Dataset (Taken from kaggle).
 
 2.1 Importing Data
   
-  2.2 Shape of dataset
+2.2 Shape of dataset
   
-  2.3 Info()
+2.3 Info()
   
-  2.4 Dtype
+2.4 Dtype
   
-  2.5 Describe
+2.5 Describe
   
-  2.6 Converting number with comma numerical
+2.6 Converting number with comma numerical
   
-  2.7 Handling Missing Values
+2.7 Handling Missing Values
   
-  2.8 filling a null values using fillna()
+2.8 filling a null values using fillna()
  
  
  3) Repository Distributions Analysis
