@@ -1,6 +1,6 @@
 # ShapeAI_Internship_Project
 # **GitHub Analysis**![image](https://user-images.githubusercontent.com/84913669/133402479-11e35f33-d29a-4337-a774-0f1873e48f12.png)
-     **About Github**
+      **About Github**
 
 GitHub is a web-based version-control and collaboration platform for software developers. ... GitHub facilitates social coding by providing a web interface to the Git code repository and management tools for collaboration. GitHub can be thought of as a serious social networking site for software developers.
 ties across the repositories
