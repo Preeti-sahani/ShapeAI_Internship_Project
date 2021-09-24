@@ -1,4 +1,6 @@
 # ShapeAI_Internship_Project
+With is project I had done my 2.5 months internship and training whic if given by ShapeAI.
+
 # **GitHub Scraping And Analysis**![image](https://user-images.githubusercontent.com/84913669/133402479-11e35f33-d29a-4337-a774-0f1873e48f12.png)
 **About Github**
 
