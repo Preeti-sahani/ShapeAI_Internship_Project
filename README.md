@@ -7,7 +7,7 @@ With this project I had done my 2.5 months internship and training which is give
 GitHub is a web-based version-control and collaboration platform for software developers. ... GitHub facilitates social coding by providing a web interface to the Git code repository and management tools for collaboration. GitHub can be thought of as a serious social networking site for software developers.
 ties across the repositories.
 # **Introduction**
-This project is focused on exploratory data analysis, aka "EDA", which is essential part of the data science analysis pipeline. Also I have tried Scraping the repositories with different topics from github front page. I have used Python BeautifulSoup to scrape the data.
+This project is focused on exploratory data analysis, aka "EDA", which is an essential part of the data science analysis pipeline. Also I have tried Scraping the repositories with different topics from the github front page. I have used Python BeautifulSoup to scrape the data.
 
 # **Requirements**
 Google Colab.
