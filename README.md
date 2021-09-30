@@ -4,8 +4,8 @@ With this project I had done my 2.5 months internship and training which is give
 # **GitHub Scraping And Analysis**![image](https://user-images.githubusercontent.com/84913669/133402479-11e35f33-d29a-4337-a774-0f1873e48f12.png)
 **About Github**
 
-GitHub is a web-based version-control and collaboration platform for software developers. ... GitHub facilitates social coding by providing a web interface to the Git code repository and management tools for collaboration. GitHub can be thought of as a serious social networking site for software developers.
-ties across the repositories.
+GitHub is the largest platform for the storage of development projects. It boasts over 100 million repositories currently hosted on the service. It is indeed the hub you go to when looking for independent open-source software outside of its main version’s control functionality.
+
 # **Introduction**
 This project is focused on exploratory data analysis, aka "EDA", which is an essential part of the data science analysis pipeline. Also I have tried Scraping the repositories with different topics from the github front page. I have used Python BeautifulSoup to scrape the data.
 
